@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/werdevs-test-task/static/css/main.e91b9214.css",
+    "main.js": "/werdevs-test-task/static/js/main.076cebd7.js",
+    "index.html": "/werdevs-test-task/index.html",
+    "main.e91b9214.css.map": "/werdevs-test-task/static/css/main.e91b9214.css.map",
+    "main.076cebd7.js.map": "/werdevs-test-task/static/js/main.076cebd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91b9214.css",
+    "static/js/main.076cebd7.js"
+  ]
+}
