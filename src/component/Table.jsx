@@ -31,7 +31,6 @@ function Table(props) {
 						type="radio"
 						value="USD"
 						onChange={(e) => setSymbol(e.target.value)}
-						checked
 					/>
 					<span>USD</span>
 				</label>
